@@ -1,11 +1,8 @@
 streamlit
 pandas
 plotly
-requests
-beautifulsoup4
-langchain>=1.0.0
+langchain
 langchain-groq
 langchain-community
-langchainhub
-ddgs                # <--- This fixes the 'ImportError: Could not import ddgs'
-langchain-classic
+duckduckgo-search
+langgraph
