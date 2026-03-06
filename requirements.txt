@@ -6,6 +6,6 @@ beautifulsoup4
 langchain>=1.0.0
 langchain-groq
 langchain-community
-langchainhub        # Fixes the 'hub' import error
-duckduckgo-search
-langchain-classic   # Fixes the 'AgentExecutor' import error
+langchainhub
+ddgs                # <--- This fixes the 'ImportError: Could not import ddgs'
+langchain-classic
