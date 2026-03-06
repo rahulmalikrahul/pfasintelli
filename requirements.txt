@@ -1,8 +1,11 @@
 streamlit
 pandas
 plotly
+requests
+beautifulsoup4
 langchain
 langchain-groq
 langchain-community
-duckduckgo-search
+duckduckgo-search>=6.0.0
+ddgs
 langgraph
